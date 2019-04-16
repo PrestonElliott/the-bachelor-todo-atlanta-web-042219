@@ -28,6 +28,7 @@ count = 0
       end
     end
   end
+  count
 end
 
 def get_occupation(data, hometown)
