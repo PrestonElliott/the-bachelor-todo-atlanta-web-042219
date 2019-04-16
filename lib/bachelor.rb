@@ -43,7 +43,8 @@ def get_occupation(data, hometown)
 end
 
 def get_average_age_for_season(data, season)
-  # code here
+  # return average age of all contestants from a season using float 
+  
 end
 
 # data structure
