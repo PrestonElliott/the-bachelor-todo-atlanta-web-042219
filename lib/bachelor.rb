@@ -50,7 +50,7 @@ def get_average_age_for_season(data, season)
     total_age += (contestant_data["age"]).to_i
     contestant_count += 1
   end
-  (total_age / contestant_count).to_f
+  (total_age.to_f / contestant_count)
 end
 
 # data structure
